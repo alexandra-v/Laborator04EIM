@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ContactsManager</string>
+    <string name="button">Show Additional Fields</string>
+    <string name="name">Name</string>
+    <string name="pozitie">poziția ocupată</string>
+    <string name="companie">denumirea companiei;</string>
+    <string name="Site">site-ul web</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>
